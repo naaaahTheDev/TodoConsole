@@ -3,4 +3,4 @@
 
 
  # How to run:
- Go to `Todo Console/Bin/Debug` and run `TodoConsole.exe`
+ Go to `Todo Console/Bin/Release` and run `TodoConsole.exe`
