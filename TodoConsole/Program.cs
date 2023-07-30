@@ -67,7 +67,7 @@ namespace TodoConsole
 								{
 									if (indexToDelete >= 0)
 									{
-										todoList.RemoveAt(indexToDelete);
+										todoList.RemoveAt(indexToDelete - 1);
 										Console.Clear();
 										Console.WriteLine("Task deleted successfully!");
 										Console.WriteLine("Back to Main Menu [0], Delete more items [1]");
