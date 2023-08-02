@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gwOvzAg7oLn6E+KJscflWv4av5szScRY69dLdMtfAlk7AtPoVt6OOIZp3Z8VvtM/skB9AevSP2zK5MXt8wvoeA==",
+  "dgSpecHash": "AX86YZOKnBGWtUABMpj/hM48OVDlE5Lx8nNog0Ye1T24Gkt1pj2vOiPE06RkNJwJJwUJwx9ykQpXdLE4ODmxBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marpt\\source\\repos\\TodoConsole\\TodoConsole\\TodoConsole.csproj",
+  "projectFilePath": "C:\\Users\\marpt\\source\\repos\\TodoConsole\\TodoConsole\\Todo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

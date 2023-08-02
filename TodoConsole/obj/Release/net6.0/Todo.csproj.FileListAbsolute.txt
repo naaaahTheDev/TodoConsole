@@ -1,0 +1,5 @@
+C:\Users\marpt\source\repos\TodoConsole\TodoConsole\obj\Release\net6.0\Todo.csproj.AssemblyReference.cache
+C:\Users\marpt\source\repos\TodoConsole\TodoConsole\obj\Release\net6.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marpt\source\repos\TodoConsole\TodoConsole\obj\Release\net6.0\Todo.AssemblyInfoInputs.cache
+C:\Users\marpt\source\repos\TodoConsole\TodoConsole\obj\Release\net6.0\Todo.AssemblyInfo.cs
+C:\Users\marpt\source\repos\TodoConsole\TodoConsole\obj\Release\net6.0\Todo.csproj.CoreCompileInputs.cache

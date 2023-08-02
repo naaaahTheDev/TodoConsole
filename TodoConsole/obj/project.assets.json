@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marpt\\source\\repos\\TodoConsole\\TodoConsole\\TodoConsole.csproj",
-      "projectName": "TodoConsole",
-      "projectPath": "C:\\Users\\marpt\\source\\repos\\TodoConsole\\TodoConsole\\TodoConsole.csproj",
+      "projectUniqueName": "C:\\Users\\marpt\\source\\repos\\TodoConsole\\TodoConsole\\Todo.csproj",
+      "projectName": "Todo",
+      "projectPath": "C:\\Users\\marpt\\source\\repos\\TodoConsole\\TodoConsole\\Todo.csproj",
       "packagesPath": "C:\\Users\\marpt\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marpt\\source\\repos\\TodoConsole\\TodoConsole\\obj\\",
       "projectStyle": "PackageReference",
